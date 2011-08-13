@@ -7,6 +7,7 @@ namespace AsteroidsGdiApp
     {
         /// <summary>
         /// The main entry point for the application.
+        /// Test for git push
         /// </summary>
         [STAThread]
         static void Main()
